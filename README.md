@@ -69,6 +69,161 @@ As a Software Engineer focused on desktop systems, you'll help design and scale 
 👉 https://tinyurl.com/44cz3wh2
 
 ---
+## 2. Front-end Developer (TypeScript)
 
-More opportunities added daily.
+💼 Employment Type: Contract  
+🌍 Location: Remote  
+💰 Pay: $30–$120/hr  
+
+### About The Role
+
+Join a fast-moving engineering team building high-performance web applications using modern frontend technologies.
+
+### Key Responsibilities
+
+- Build and maintain scalable frontend components using TypeScript, HTML, CSS, and JavaScript
+- Integrate REST APIs and manage frontend-backend data flow
+- Maintain code quality through reviews, documentation, and best practices
+- Implement automated testing and CI/CD workflows
+- Collaborate with designers, backend engineers, and stakeholders
+- Optimize tooling, workflows, and application performance
+
+### Requirements
+
+- Expert HTML, CSS, and JavaScript skills
+- Strong TypeScript experience
+- API integration experience
+- Knowledge of Webpack, Babel, npm, or Yarn
+- Automation testing experience
+- Strong communication skills
+
+### Preferred
+
+- Remote team experience
+- CI/CD experience
+- UX/UI understanding
+
+### Apply Here
+
+👉 https://tinyurl.com/mr2dahuh
+
+---
+
+## 3. Data Analyst
+
+💼 Employment Type: Contractor  
+🌍 Location: Remote  
+💰 Pay: $30–$80/hr  
+
+### About The Role
+
+Help organizations transform complex data into business insights.
+
+### Key Responsibilities
+
+- Analyze large datasets
+- Build advanced PL/SQL queries
+- Use Python for automation and analytics
+- Build reports and visualizations
+- Collaborate with distributed teams
+- Maintain data integrity
+
+### Requirements
+
+- Bachelor's degree in a related field
+- 3–5 years experience
+- Strong Python skills
+- Expert PL/SQL skills
+- Strong communication skills
+- Independent remote work ability
+
+### Preferred
+
+- Tableau or Power BI
+- Cloud platform experience
+- Analytics certifications
+
+### Apply Here
+
+👉 https://tinyurl.com/m2papj3j
+
+---
+
+## 4. Frontend Developer (HTML, CSS)
+
+💼 Employment Type: Contractor  
+🌍 Location: Remote  
+💰 Pay: $30–$120/hr  
+
+### About The Role
+
+Build beautiful, scalable, high-performance user interfaces for modern applications.
+
+### Key Responsibilities
+
+- Convert design files into responsive UI
+- Build scalable frontend components
+- Work with Angular, Vue, React, Bootstrap, and jQuery
+- Integrate APIs and backend services
+- Test, debug, and optimize frontend systems
+
+### Requirements
+
+- Expert HTML, CSS, JavaScript
+- Angular, Vue, React experience
+- API integration skills
+- CakePHP and MySQL familiarity
+- Testing experience
+- Strong problem-solving ability
+
+### Preferred
+
+- Cloud deployment experience
+- Advanced debugging skills
+- Large-scale project experience
+
+### Apply Here
+
+👉 https://tinyurl.com/334kfxhw
+
+---
+
+## 5. Data Scientist
+
+💼 Employment Type: Contractor  
+🌍 Location: Remote  
+
+### About The Role
+
+Turn data into actionable insights that drive business growth.
+
+### Key Responsibilities
+
+- Collect, clean, and analyze data
+- Build predictive models
+- Perform exploratory data analysis
+- Create reports and visualizations
+- Deliver end-to-end analytics projects
+- Improve data workflows
+
+### Requirements
+
+- Statistics and mathematics expertise
+- Python or R proficiency
+- Predictive modeling experience
+- Data visualization skills
+- Strong communication skills
+
+### Preferred
+
+- Remote team experience
+- Machine learning deployment experience
+
+### Apply Here
+
+👉 https://tinyurl.com/5hd972wv
+
+---
+
+More opportunities added daily.  
 Follow Kelvin Remote Talent.
