@@ -1,36 +1,74 @@
-# 🌍 Kelvin Remote Tech Jobs
+# 🌍 Kelvin Remote Talent
 
 Helping developers find legit remote opportunities worldwide.
 
 ---
 
-## Open Positions
+# Remote Tech Jobs | Worldwide Developer Opportunities
 
-### 1. Frontend Developer
-Location: Remote
+Hiring:
 
-Salary: $2000–$4000/month
+- Frontend Developers
+- Backend Developers
+- Full Stack Engineers
+- DevOps Engineers
+- UI/UX Designers
+- Product Managers
+- QA Engineers
 
-Requirements:
-- React
-- Git
-- English communication
-- 2+ years experience
+Locations:
 
-Apply:
-kelvinrecruitment@email.com
+Remote • USA • Europe • Canada • Africa • Asia
+
+Updated daily by Kelvin Remote Talent.
 
 ---
 
-### 2. Backend Developer
-Location: Remote
+# Open Positions
 
-Salary: $2500–$5000/month
+## 1. Software Engineer (ElectronJS)
 
-Requirements:
-- Node.js
-- APIs
-- Databases
+💼 Employment Type: Full-Time  
+🌍 Location: Remote  
+💰 Salary: $150,000–$220,000/year  
 
-Apply:
-kelvinrecruitment@email.com
+### About The Role
+
+Join a team building high-performance productivity infrastructure for a globally distributed workforce.
+
+As a Software Engineer focused on desktop systems, you'll help design and scale a cross-platform time intelligence application for MacOS and Windows used daily by thousands of professionals.
+
+### Key Responsibilities
+
+- Architect and scale cross-platform desktop applications using Electron.js
+- Build real-time event tracking and background execution systems
+- Implement keyboard, mouse, and application usage monitoring with privacy-first design
+- Develop offline-first data pipelines with sync and conflict resolution
+- Integrate backend APIs for analytics and reporting
+- Optimize runtime performance, memory usage, and fault tolerance
+- Collaborate with product, design, and backend teams
+
+### Requirements
+
+- 3+ years building production Electron.js applications
+- Strong JavaScript, TypeScript, and Node.js skills
+- Experience building for MacOS and Windows
+- Experience with event streams or real-time monitoring systems
+- Familiarity with OS-level APIs
+- Strong debugging and performance optimization skills
+
+### Preferred
+
+- Productivity or telemetry application experience
+- Native OS integrations
+- Security and privacy knowledge
+- Auto-update and release management experience
+
+### Apply Here
+
+👉 https://tinyurl.com/44cz3wh2
+
+---
+
+More opportunities added daily.
+Follow Kelvin Remote Talent.
